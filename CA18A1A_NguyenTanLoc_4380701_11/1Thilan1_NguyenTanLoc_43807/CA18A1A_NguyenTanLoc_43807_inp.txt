@@ -1,0 +1,7 @@
+6
+MH01| Cảm biến âm thanh 1|4|17000
+MH02| Cảm biến ánh sáng 2|4|27000
+MH03| Cảm biến nhiệt |4|57000
+MH04| Cảm biến độ ẩm  |4|27000
+MH05| Cảm biến góc nghiêng |4|77000
+MH06| Cảm biến khói |4|35000
